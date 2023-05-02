@@ -1,4 +1,8 @@
-### Hi there 👋
+### TODO
+- invoice generator (svelte + firebase)
+- personal website (react + tailwind)
+- personal blog (nextJS)
+- commerce website (nextJS)
 
 <!--
 **ligsnf/ligsnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

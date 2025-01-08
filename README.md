@@ -1,24 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
 
-<!-- 
-### TODO
-- invoice generator (svelte + firebase)
-- personal website (react + tailwind)
-- personal blog (nextJS)
-- commerce website (nextJS) 
--->
+### About Me 👨‍💻
+- 🎓 Studying Software Engineering at Monash University
+- 💼 Working as Software Engineer at NAB
+- 🚀 Enjoys building and deploying web applications end-to-end
 
-<!--
-**ligsnf/ligsnf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=ts,python,java,kotlin,react,vite,tailwind,nextjs,nodejs,postgres,aws,vercel,github,jenkins,docker)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ligsnf">
+  <img height=200 align="center" src="https://github-readme-stats.liangdi.dev/api?username=ligsnf&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/ligsnf">
+  <img height=200 align="center" src="https://github-readme-stats.liangdi.dev/api/top-langs?username=ligsnf&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
